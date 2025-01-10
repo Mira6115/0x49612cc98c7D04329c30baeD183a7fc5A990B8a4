@@ -1,4 +1,3 @@
-
 {
   "name": "Tether USDt",
   "symbol": "USDT",
@@ -6,9 +5,8 @@
   "description": "A stable token pegged to 1 USD",
   "website": "https://www.tethermira.com",
   "logo": {
-    "png":  "https://github.com/Mira6115/0x49612cc98c7D04329c30baeD183a7fc5A990B8a4/blob/main/logo.png",
-  "external_url": "https://www.tethermira.com/"
-
+    "png": "https://raw.githubusercontent.com/Mira6115/0x49612cc98c7D04329c30baeD183a7fc5A990B8a4/main/logo.png"
   },
+  "external_url": "https://www.tethermira.com/",
   "status": "active"
 }
