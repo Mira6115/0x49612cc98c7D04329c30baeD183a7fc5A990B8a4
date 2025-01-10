@@ -1,0 +1,14 @@
+
+{
+  "name": "Tether USDt",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "description": "A stable token pegged to 1 USD",
+  "website": "https://www.tethermira.com",
+  "logo": {
+    "png":  "https://cyan-adverse-kiwi-231.mypinata.cloud/files/bafybeiczriodm7b6ektoqk5mbioluzmg5m2m4ldooinpvrqj2m2uzbxque?X-Algorithm=PINATA1&X-Date=1736220061&X-Expires=30&X-Method=GET&X-Signature=f12d56a7a95255570ed02eef3c7f79fcbc82d1b6589e9c6be0d2e915b235d4f3",
+  "external_url": "https://www.tethermira.com/"
+
+  },
+  "status": "active"
+}
